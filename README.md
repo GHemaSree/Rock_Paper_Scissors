@@ -61,7 +61,5 @@ Enter your choice (0 for Rock, 1 for Paper, 2 for Scissors): 0
 
    Your total points = 3
    Computer's total points = 1
-        ********************
         *      YOU WON!     *
-        ********************
-        *** GAME OVER! ***
+        * GAME OVER! *
