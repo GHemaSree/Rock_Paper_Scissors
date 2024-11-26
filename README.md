@@ -7,7 +7,6 @@ Features
     The winner is determined by who gets the most points after 5 rounds.
 
 How to Play
-    Clone or download this repository to your local machine.
     Compile and run the program using a C compiler (like GCC or Turbo C).
     Enter your choice (0 for Rock, 1 for Paper, 2 for Scissors) when prompted.
     After 5 rounds, the game will display the results and declare the winner.
