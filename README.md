@@ -1,21 +1,21 @@
 # Rock_Paper_Scissors
 A simple command-line Rock, Paper, Scissors game where you play against the computer. You have 5 chances to score more points than the computer. The game will display your and the computer's choices for each round and show the final result.
-Features
+##Features
     You can play 5 rounds.
     The computer makes random moves (Rock, Paper, or Scissors).
     The game keeps track of your and the computer's scores.
     The winner is determined by who gets the most points after 5 rounds.
 
-How to Play
+##How to Play
     Compile and run the program using a C compiler (like GCC or Turbo C).
     Enter your choice (0 for Rock, 1 for Paper, 2 for Scissors) when prompted.
     After 5 rounds, the game will display the results and declare the winner.
 
-Requirements
+##Requirements
     A C compiler (e.g., GCC)
     Windows OS (due to system("cls") used for clearing the console)
 
-Example Game Flow
+##Example Game Flow
     *** Rock, Paper, Scissors ***
 
   You have 5 chances.
